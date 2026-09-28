@@ -21,19 +21,33 @@ if ($LASTEXITCODE -ne 0) {
 
 function Normalize-Topics {
     param([object[]]$Topics)
-    return @($Topics | ForEach-Object { [string]$_ } | Sort-Object -Unique)
+
+    $normalized = @(
+        $Topics |
+            Where-Object { $null -ne $_ -and [string]$_ -ne "" } |
+            ForEach-Object { [string]$_ } |
+            Sort-Object -Unique
+    )
+
+    return ,$normalized
 }
 
 function Topics-Equal {
-    param([string[]]$Left, [string[]]$Right)
-    if ($Left.Count -ne $Right.Count) {
+    param([object]$Left, [object]$Right)
+
+    $leftArray = @($Left)
+    $rightArray = @($Right)
+
+    if ($leftArray.Count -ne $rightArray.Count) {
         return $false
     }
-    for ($i = 0; $i -lt $Left.Count; $i++) {
-        if ($Left[$i] -cne $Right[$i]) {
+
+    for ($i = 0; $i -lt $leftArray.Count; $i++) {
+        if ([string]$leftArray[$i] -cne [string]$rightArray[$i]) {
             return $false
         }
     }
+
     return $true
 }
 
@@ -56,8 +70,8 @@ foreach ($property in $data.repositories.PSObject.Properties) {
         $currentDescription = if ($null -eq $current.description) { "" } else { [string]$current.description }
         $desiredDescription = [string]$desired.description
 
-        $currentTopics = Normalize-Topics @($current.topics)
-        $desiredTopics = Normalize-Topics @($desired.topics)
+        $currentTopics = @(Normalize-Topics -Topics @($current.topics))
+        $desiredTopics = @(Normalize-Topics -Topics @($desired.topics))
 
         $descriptionChanged = $currentDescription -cne $desiredDescription
         $topicsChanged = -not (Topics-Equal $currentTopics $desiredTopics)
