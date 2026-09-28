@@ -15,6 +15,7 @@ VACTERRO_PROFILE_README:END -->
 Continuation protocols, multi-agent operator tooling, quota monitors, desktop utilities, and the glue that keeps long-running AI work from turning into session archaeology.
 
 [![SAIPEN Community](https://img.shields.io/badge/Discord-SAIPEN%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/SEYaYkuVgN)
+[![SAIPEN HQ](https://img.shields.io/badge/GitHub-SAIPEN%20HQ-D4B86A?logo=github)](https://github.com/saipenhq)
 [![SAIPEN Core](https://img.shields.io/badge/SAIPEN-Core-D4B86A)](https://github.com/vacterro/saipen)
 [![FastPrompter](https://img.shields.io/badge/FastPrompter-Windows-0078D6)](https://github.com/vacterro/FastPrompter)
 
@@ -22,7 +23,7 @@ Continuation protocols, multi-agent operator tooling, quota monitors, desktop ut
 
 ## SAIPEN ecosystem
 
-SAIPEN is the umbrella for a growing set of tools around practical AI-agent workflows: persistent project state, continuation across cold sessions, multi-agent operation, auditing, packaging, communication, and human-visible control.
+The public organization hub is [**SAIPEN HQ**](https://github.com/saipenhq). SAIPEN is the umbrella for a growing set of tools around practical AI-agent workflows: persistent project state, continuation across cold sessions, multi-agent operation, auditing, packaging, communication, and human-visible control.
 
 | Project | What it does |
 |---|---|
