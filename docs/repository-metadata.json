@@ -1,0 +1,509 @@
+{
+  "schema_version": 1,
+  "intent": "Canonical desired GitHub repository metadata for active public vacterro projects. This file is advisory until the corresponding GitHub repository settings are actually updated.",
+  "organization": {
+    "login": "saipenhq",
+    "display_name": "SAIPEN",
+    "short_description": "Practical infrastructure for long-running AI-agent work: continuation, recovery, operator tooling, auditing, and local-first automation.",
+    "website": "https://github.com/vacterro/saipen",
+    "community": "https://discord.gg/SEYaYkuVgN"
+  },
+  "repositories": {
+    "vac34_c4d_scripts": {
+      "description": "Personal Cinema 4D Python scripts for faster object, naming, visibility, instance, keyframe, and Redshift workflows.",
+      "topics": [
+        "cinema-4d",
+        "cinema4d",
+        "python",
+        "scripts",
+        "automation",
+        "3d",
+        "workflow",
+        "redshift"
+      ]
+    },
+    "BZCC_Font_Tool": {
+      "description": "Desktop font replacement tool for Battlezone: Combat Commander modding.",
+      "topics": [
+        "battlezone",
+        "battlezone-combat-commander",
+        "bzcc",
+        "modding",
+        "fonts",
+        "python",
+        "desktop-app"
+      ]
+    },
+    "BZCC-Sprite-and-CursorHD-Generator": {
+      "description": "GUI toolkit for Battlezone: Combat Commander cursor sheets, sprites, color maps, scaling, and texture export.",
+      "topics": [
+        "battlezone",
+        "battlezone-combat-commander",
+        "bzcc",
+        "modding",
+        "sprites",
+        "cursor",
+        "textures",
+        "python",
+        "image-processing"
+      ]
+    },
+    "BZCC-Sprite-Viewer": {
+      "description": "Visual Battlezone: Combat Commander sprite.txt viewer with recursive image lookup.",
+      "topics": [
+        "battlezone",
+        "battlezone-combat-commander",
+        "bzcc",
+        "modding",
+        "sprites",
+        "viewer",
+        "python"
+      ]
+    },
+    "VAC-MEDIA-COMPRESSOR": {
+      "description": "PyQt6 desktop batch media compressor and converter for images, audio, and video with FFmpeg/ImageMagick workflows.",
+      "topics": [
+        "media",
+        "compression",
+        "converter",
+        "ffmpeg",
+        "imagemagick",
+        "pyqt6",
+        "python",
+        "desktop-app",
+        "video",
+        "images"
+      ]
+    },
+    "FastPrompter": {
+      "description": "Keyboard-first local scratchpad and snippet workspace for Windows. Portable PyQt6 app with Markdown, file containers, global hotkeys and offline data.",
+      "topics": [
+        "ai-prompts",
+        "clipboard-manager",
+        "desktop-app",
+        "global-hotkeys",
+        "markdown",
+        "note-taking",
+        "portable",
+        "productivity",
+        "prompt-engineering",
+        "pyqt6",
+        "python",
+        "scratchpad",
+        "snippet-manager",
+        "system-tray",
+        "text-editor",
+        "windows"
+      ]
+    },
+    "Wintage": {
+      "description": "Dark Golden Windows 95 vintage theme for the web and selected desktop apps: sharp bevels, zero rounded corners, zero animation.",
+      "topics": [
+        "tampermonkey",
+        "userscript",
+        "theme",
+        "windows-95",
+        "retro",
+        "browser",
+        "css",
+        "dark-theme",
+        "accessibility",
+        "ui"
+      ]
+    },
+    "SunoDownloader": {
+      "description": "Tampermonkey toolkit for Suno multi-account workflows, batch MP3/WAV downloads, ID3 tagging, lyrics, and automation.",
+      "topics": [
+        "automation",
+        "browser-extension",
+        "downloader",
+        "id3",
+        "javascript",
+        "music",
+        "oauth",
+        "suno",
+        "tampermonkey",
+        "userscript"
+      ]
+    },
+    "saipen": {
+      "description": "Vendor-neutral continuation protocol for AI coding agents. Plain-file project state, stdlib validation, recovery and cold-agent handoff.",
+      "topics": [
+        "agentic-ai",
+        "ai-agent",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "context-management",
+        "developer-tools",
+        "llm",
+        "markdown",
+        "memory",
+        "protocol"
+      ]
+    },
+    "saipenview": {
+      "description": "Local Windows control center for SAIPEN projects: live state, conformance, tickets, sub-agents, and AI CLI workflows.",
+      "topics": [
+        "saipen",
+        "ai-agents",
+        "agentic-ai",
+        "desktop-app",
+        "python",
+        "windows",
+        "project-management",
+        "developer-tools",
+        "local-first",
+        "automation"
+      ]
+    },
+    "VacWPlayer": {
+      "description": "Windows/BlueStacks Wild Rift automation assistant with configurable combos, champion presets, minimap actions, and game-state helpers.",
+      "topics": [
+        "wild-rift",
+        "bluestacks",
+        "autohotkey",
+        "python",
+        "automation",
+        "desktop-app",
+        "windows",
+        "game-tools"
+      ]
+    },
+    "SMART-VAC-CLEANER": {
+      "description": "Safety-focused portable Windows junk cleaner with dry-run, CLI/GUI modes, guarded deletion, logs, and scheduled cleanup.",
+      "topics": [
+        "windows",
+        "cleaner",
+        "disk-cleanup",
+        "python",
+        "desktop-app",
+        "automation",
+        "portable",
+        "safety",
+        "cli",
+        "tkinter"
+      ]
+    },
+    "saitalk": {
+      "description": "Portable response-behavior protocol for humans and AI agents with explicit language, voice, and validation contracts.",
+      "topics": [
+        "ai-agents",
+        "llm",
+        "prompting",
+        "protocol",
+        "behavior",
+        "instructions",
+        "validation",
+        "python",
+        "agentic-ai"
+      ]
+    },
+    "saiplan": {
+      "description": "Portable Markdown-backed planner that brings SAIPEN-style goals, tickets, dependencies, verification, and recovery to human work.",
+      "topics": [
+        "productivity",
+        "planner",
+        "kanban",
+        "markdown",
+        "local-first",
+        "python",
+        "desktop-app",
+        "task-management",
+        "saipen",
+        "windows"
+      ]
+    },
+    "SMART-VAC-DUPLICATE-REMOVER": {
+      "description": "Windows duplicate-file finder with SHA-256 verification, recoverable Recycle Bin deletion, logging, and stale-file safety checks.",
+      "topics": [
+        "duplicate-files",
+        "file-cleaner",
+        "sha256",
+        "python",
+        "windows",
+        "desktop-app",
+        "recycle-bin",
+        "file-management"
+      ]
+    },
+    "VACZEN-Calendar": {
+      "description": "Distraction-free Win95-dark Tk calendar and task tracker. One Python file, stdlib only.",
+      "topics": [
+        "calendar",
+        "offline",
+        "offline-first",
+        "productivity",
+        "python",
+        "task-tracker",
+        "tkinter",
+        "win95"
+      ]
+    },
+    "AI-Chat-Buttons": {
+      "description": "Universal Tampermonkey prompt-button panel for ChatGPT, Claude, Gemini, DeepSeek, Grok, Perplexity, and other AI chat sites.",
+      "topics": [
+        "tampermonkey",
+        "userscript",
+        "chatgpt",
+        "claude",
+        "gemini",
+        "ai",
+        "prompt-engineering",
+        "browser-automation",
+        "javascript",
+        "productivity"
+      ]
+    },
+    "saiwork2": {
+      "description": "Native Tauri desktop control plane for coding agents: durable queues, OpenCode sessions, and SAIPEN workflows.",
+      "topics": [
+        "ai-agents",
+        "desktop-app",
+        "opencode",
+        "react",
+        "rust",
+        "sqlite",
+        "tauri",
+        "typescript",
+        "saipen",
+        "agentic-ai"
+      ]
+    },
+    "SMART-VAC-MEDIA-COMPRESSOR": {
+      "description": "Portable PyQt6 batch image/video compressor with smart format heuristics, drag-and-drop conversion, and hardware acceleration.",
+      "topics": [
+        "compression",
+        "media",
+        "ffmpeg",
+        "pyqt6",
+        "python",
+        "desktop-app",
+        "images",
+        "video",
+        "converter",
+        "portable"
+      ]
+    },
+    "_PR-Video-Random-Cut": {
+      "description": "Adobe Premiere Pro CEP extension for weighted random clip placement, gap filling, subtitles, and MOGRT-assisted workflows.",
+      "topics": [
+        "premiere-pro",
+        "adobe",
+        "cep",
+        "extendscript",
+        "javascript",
+        "video-editing",
+        "automation",
+        "mogrt",
+        "subtitles"
+      ]
+    },
+    "saipet": {
+      "description": "Read-only internet scout for finding real user problems, scoring relevance, and drafting human-approved solve-first replies.",
+      "topics": [
+        "ai-agents",
+        "research",
+        "reddit",
+        "scouting",
+        "automation",
+        "python",
+        "human-in-the-loop",
+        "local-first",
+        "saipen"
+      ]
+    },
+    "saicont": {
+      "description": "Fail-closed Windows console watcher that safely resumes terminal AI agents only after verified failure and ready-input conditions.",
+      "topics": [
+        "ai-agents",
+        "windows",
+        "csharp",
+        "console",
+        "automation",
+        "recovery",
+        "codex",
+        "cline",
+        "agentic-ai"
+      ]
+    },
+    "audapack": {
+      "description": "Windows desktop cockpit for verified ZIP packaging, multi-wave AI audit handoff, and a local browser bridge. Python + Qt + Tampermonkey.",
+      "topics": [
+        "audit",
+        "automation",
+        "bridge",
+        "chatgpt",
+        "desktop-app",
+        "packaging",
+        "pyside6",
+        "python",
+        "qt",
+        "tampermonkey",
+        "userscript",
+        "windows",
+        "zip"
+      ]
+    },
+    "saituls": {
+      "description": "Windows Explorer context-menu toolkit and desktop utility hub for file/media operations, agent launchers, quotas, and supporting tools.",
+      "topics": [
+        "codex",
+        "context-menu",
+        "csharp",
+        "explorer",
+        "ffmpeg",
+        "file-utilities",
+        "windows",
+        "windows-95",
+        "winforms",
+        "yt-dlp",
+        "automation"
+      ]
+    },
+    "saipal": {
+      "description": "Forensic protocol observer for SAIPEN-governed agent sessions: detects drift, preserves evidence, and reports qualified root causes.",
+      "topics": [
+        "agent-observability",
+        "ai-agents",
+        "auditing",
+        "forensics",
+        "llm",
+        "protocol",
+        "python",
+        "stdlib-only",
+        "saipen"
+      ]
+    },
+    "limisaw": {
+      "description": "One-file Windows tray monitor for Codex, Claude Code, Antigravity, and Zcode quota windows across multiple accounts.",
+      "topics": [
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "csharp",
+        "quota-monitor",
+        "rate-limits",
+        "single-file",
+        "tray-app",
+        "windows",
+        "winforms",
+        "zcode"
+      ]
+    },
+    "problip": {
+      "description": "Tiny portable Windows tray beeper with randomized intervals, local statistics, themes, and no installer.",
+      "topics": [
+        "csharp",
+        "meditation",
+        "portable",
+        "productivity",
+        "reminder",
+        "timer",
+        "tray-application",
+        "windows",
+        "winforms"
+      ]
+    },
+    "problip_android": {
+      "description": "Native Android random-beep meditation timer built with Kotlin and Jetpack Compose.",
+      "topics": [
+        "android",
+        "android-app",
+        "android-widget",
+        "datastore",
+        "jetpack-compose",
+        "kotlin",
+        "meditation",
+        "play-billing",
+        "productivity",
+        "timer"
+      ]
+    },
+    "9router_extra": {
+      "description": "Extension, patch, migration, and provider-integration suite for 9Router, including SAIFREN routing and local state tooling.",
+      "topics": [
+        "ai-agents",
+        "llm",
+        "routing",
+        "router",
+        "provider-routing",
+        "proxy",
+        "automation",
+        "powershell",
+        "python",
+        "windows"
+      ]
+    },
+    "protrail": {
+      "description": "Native Windows cursor trails, click/hold effects, and motion wakes using Qt 6, C++20, Direct2D, and DirectComposition.",
+      "topics": [
+        "windows",
+        "cpp",
+        "qt6",
+        "direct2d",
+        "directcomposition",
+        "cursor",
+        "mouse",
+        "desktop-app",
+        "visual-effects",
+        "multi-monitor"
+      ]
+    },
+    "saicode": {
+      "description": "Reserved public repository slot for the SAICODE project within the SAIPEN ecosystem; implementation not published here yet.",
+      "topics": [
+        "saipen",
+        "ai-agents",
+        "developer-tools",
+        "reserved"
+      ]
+    },
+    "saimail": {
+      "description": "Local-first agent post office and desktop messenger with sealed messages, explicit provenance and bounded inbox triage.",
+      "topics": [
+        "agent-communication",
+        "agents",
+        "ai-agents",
+        "cryptography",
+        "evidence",
+        "local-first",
+        "messaging",
+        "multi-agent",
+        "offline-first",
+        "protocol",
+        "provenance",
+        "pyside6",
+        "python"
+      ]
+    },
+    "zaicode": {
+      "description": "Windows operator workbench for running many AI coding agents across many projects with SAIPEN continuation, scheduling, workers, and routing.",
+      "topics": [
+        "ai-agents",
+        "agentic-ai",
+        "coding-agents",
+        "desktop-app",
+        "typescript",
+        "windows",
+        "saipen",
+        "automation",
+        "scheduler",
+        "multi-agent",
+        "developer-tools"
+      ]
+    },
+    "vacterro": {
+      "description": "Public profile and canonical project index for the vacterro / SAIPEN project network.",
+      "topics": [
+        "profile",
+        "saipen",
+        "ai-agents",
+        "automation",
+        "windows",
+        "developer-tools"
+      ]
+    }
+  }
+}
