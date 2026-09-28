@@ -23,7 +23,7 @@ Continuation protocols, multi-agent operator tooling, quota monitors, desktop ut
 
 ## SAIPEN ecosystem
 
-The public organization hub is [**SAIPEN HQ**](https://github.com/saipenhq). SAIPEN is the umbrella for a growing set of tools around practical AI-agent workflows: persistent project state, continuation across cold sessions, multi-agent operation, auditing, packaging, communication, and human-visible control.
+The public organization hub is [**SAIPEN HQ**](https://github.com/saipenhq). Its [canonical project map](https://github.com/saipenhq/.github/blob/main/docs/PROJECTS.md) and [branding/link contract](https://github.com/saipenhq/.github/blob/main/docs/BRANDING.md) define the shared public structure. SAIPEN is the umbrella for a growing set of tools around practical AI-agent workflows: persistent project state, continuation across cold sessions, multi-agent operation, auditing, packaging, communication, and human-visible control.
 
 | Project | What it does |
 |---|---|
