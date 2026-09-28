@@ -104,7 +104,7 @@ foreach ($property in $data.repositories.PSObject.Properties) {
         $changed++
     }
     catch {
-        Write-Warning "$repo: $($_.Exception.Message)"
+        Write-Warning "${repo}: $($_.Exception.Message)"
         $failed++
     }
 }
