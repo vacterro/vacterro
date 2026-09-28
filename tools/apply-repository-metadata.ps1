@@ -29,7 +29,7 @@ function Normalize-Topics {
             Sort-Object -Unique
     )
 
-    return ,$normalized
+    return $normalized
 }
 
 function Topics-Equal {
