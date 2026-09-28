@@ -1,3 +1,9 @@
+<!-- VACTERRO_PROFILE_README:BEGIN
+This is the intentional canonical public project index for the vacterro account.
+Agents/maintainers: edits here are documentation/navigation work, not product-code drift.
+Keep project claims factual and link to repository-local READMEs for implementation details.
+VACTERRO_PROFILE_README:END -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/vacterro/saipen/main/assets/SAIPEN_TEXT1.png" alt="SAIPEN" width="420">
@@ -38,6 +44,18 @@ These projects are more specialized, but they are part of the same direction: ma
 | [**SAIMAIL**](https://github.com/vacterro/saimail) | Local-first agent post office and desktop messenger with provenance and bounded inbox triage. |
 | [**SAIPENVIEW**](https://github.com/vacterro/saipenview) | Local control center for SAIPEN project state, tickets, conformance, sub-agents, and AI CLI workflows. |
 | [**Wintage**](https://github.com/vacterro/Wintage) | Dark Golden Windows 95-style theme system for the web and selected desktop applications. |
+
+## More public tools
+
+The profile is broader than the six flagships above. These repositories are kept linked here so a visitor can move through the garage without needing a treasure map.
+
+**Agent / workflow tooling:** [SAIPLAN](https://github.com/vacterro/saiplan) · [SAITALK](https://github.com/vacterro/saitalk) · [SAICONT](https://github.com/vacterro/saicont) · [SAIPET](https://github.com/vacterro/saipet) · [SAIWORK2](https://github.com/vacterro/saiwork2) · [9router_extra](https://github.com/vacterro/9router_extra)
+
+**Windows utilities:** [Problip](https://github.com/vacterro/problip) · [Problip Android](https://github.com/vacterro/problip_android) · [SMART VAC Cleaner](https://github.com/vacterro/SMART-VAC-CLEANER) · [SMART VAC Duplicate Remover](https://github.com/vacterro/SMART-VAC-DUPLICATE-REMOVER) · [VACZEN Calendar](https://github.com/vacterro/VACZEN-Calendar) · [AI Chat Buttons](https://github.com/vacterro/AI-Chat-Buttons)
+
+**Creative / media / game tooling:** [VAC Media Compressor](https://github.com/vacterro/VAC-MEDIA-COMPRESSOR) · [SMART VAC Media Compressor](https://github.com/vacterro/SMART-VAC-MEDIA-COMPRESSOR) · [Premiere Random Cut](https://github.com/vacterro/_PR-Video-Random-Cut) · [Cinema 4D scripts](https://github.com/vacterro/vac34_c4d_scripts) · [BZCC Font Tool](https://github.com/vacterro/BZCC_Font_Tool) · [BZCC Sprite Generator](https://github.com/vacterro/BZCC-Sprite-and-CursorHD-Generator) · [BZCC Sprite Viewer](https://github.com/vacterro/BZCC-Sprite-Viewer) · [SunoDownloader](https://github.com/vacterro/SunoDownloader) · [VacWPlayer](https://github.com/vacterro/VacWPlayer)
+
+Archived experiments stay archived rather than being presented as current products.
 
 ## Design direction
 
