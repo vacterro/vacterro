@@ -40,9 +40,9 @@ These projects are more specialized, but they are part of the same direction: ma
 
 | Project | Role |
 |---|---|
-| [**AUDAPACK**](https://github.com/vacterro/audapack) | Verified project packaging, multi-wave audit workflow, and local browser bridge. |
+| [**AUDAPACK**](https://github.com/vacterro/audapack) | Windows audit-packaging and workflow automation for AI-assisted software projects: clean archives, multi-wave audit freshness, handoffs, and a local browser bridge. |
 | [**SAIPAL**](https://github.com/vacterro/saipal) | Forensic observer for SAIPEN-governed agent sessions and protocol drift. |
-| [**SAIMAIL**](https://github.com/vacterro/saimail) | Local-first agent post office and desktop messenger with provenance and bounded inbox triage. |
+| [**SAIMAIL**](https://github.com/vacterro/saimail) | Local-first agent messaging and correspondence for AI-assisted software projects, with evidence-aware messages, encrypted addressed payloads, inbox triage, and SAIPEN integration. |
 | [**SAIPENVIEW**](https://github.com/vacterro/saipenview) | Local control center for SAIPEN project state, tickets, conformance, sub-agents, and AI CLI workflows. |
 | [**Wintage**](https://github.com/vacterro/Wintage) | Dark Golden Windows 95-style theme system for the web and selected desktop applications. |
 
