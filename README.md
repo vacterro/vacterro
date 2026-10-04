@@ -86,7 +86,7 @@ If something here saves you time and you'd like to support continued development
 - [Buy Me a Coffee](https://buymeacoffee.com/vacuum34)
 - [Boosty](https://boosty.to/vacuum34/donate)
 - [PayPal](https://paypal.com/paypalme/alexnelin)
-- Crypto addresses are listed in [SUPPORT.md](SUPPORT.md).
+- Full support details are listed in [SUPPORT.md](SUPPORT.md).
 
 The projects stay public and usable whether you donate or not.
 
