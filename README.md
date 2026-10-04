@@ -79,6 +79,10 @@ The shared community for SAIPEN and related projects lives on Discord:
 
 Use it for discussion, screenshots, ideas, quick questions, and project feedback. Reproducible bugs and durable feature requests are still best filed in the relevant GitHub repository so they do not disappear into chat history.
 
+## Optional support
+
+If something here saves you time and you'd like to support continued development, you can do so at [Buy Me a Coffee](https://buymeacoffee.com/vacuum34). Support is entirely optional; the projects stay public and usable either way.
+
 ## Current focus
 
 The current focus is not inventing fifty more project names. It is making the existing ecosystem more coherent, easier to enter, and increasingly capable of running useful agent workflows with less manual babysitting.
