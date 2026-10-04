@@ -81,7 +81,14 @@ Use it for discussion, screenshots, ideas, quick questions, and project feedback
 
 ## Optional support
 
-If something here saves you time and you'd like to support continued development, you can do so at [Buy Me a Coffee](https://buymeacoffee.com/vacuum34). Support is entirely optional; the projects stay public and usable either way.
+If something here saves you time and you'd like to support continued development, support is entirely optional:
+
+- [Buy Me a Coffee](https://buymeacoffee.com/vacuum34)
+- [Boosty](https://boosty.to/vacuum34/donate)
+- [PayPal](https://paypal.com/paypalme/alexnelin)
+- Crypto addresses are listed in [SUPPORT.md](SUPPORT.md).
+
+The projects stay public and usable whether you donate or not.
 
 ## Current focus
 
