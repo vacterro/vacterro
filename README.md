@@ -56,6 +56,8 @@ The profile is broader than the six flagships above. These repositories are kept
 
 **Creative / media / game tooling:** [VAC Media Compressor](https://github.com/vacterro/VAC-MEDIA-COMPRESSOR) · [SMART VAC Media Compressor](https://github.com/vacterro/SMART-VAC-MEDIA-COMPRESSOR) · [Premiere Random Cut](https://github.com/vacterro/_PR-Video-Random-Cut) · [Cinema 4D scripts](https://github.com/vacterro/vac34_c4d_scripts) · [BZCC Font Tool](https://github.com/vacterro/BZCC_Font_Tool) · [BZCC Sprite Generator](https://github.com/vacterro/BZCC-Sprite-and-CursorHD-Generator) · [BZCC Sprite Viewer](https://github.com/vacterro/BZCC-Sprite-Viewer) · [SunoDownloader](https://github.com/vacterro/SunoDownloader) · [VacWPlayer](https://github.com/vacterro/VacWPlayer)
 
+**Browser / client customization:** [BetterDiscord vac34 plugins](https://github.com/vacterro/BetterDiscord_vac34_plugins)
+
 Archived experiments stay archived rather than being presented as current products.
 
 ## Design direction
