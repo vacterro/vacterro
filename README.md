@@ -81,14 +81,13 @@ Use it for discussion, screenshots, ideas, quick questions, and project feedback
 
 ## Optional support
 
-If something here saves you time and you'd like to support continued development, support is entirely optional:
+If these tools save you time and you simply feel like buying me an ice cream, thank you. Support is entirely optional; nothing is locked behind a donation and the projects remain public and usable either way.
 
-- [Buy Me a Coffee](https://buymeacoffee.com/vacuum34)
-- [Boosty](https://boosty.to/vacuum34/donate)
-- [PayPal](https://paypal.com/paypalme/alexnelin)
-- Full support details are listed in [SUPPORT.md](SUPPORT.md).
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/vacuum34)
+[![Boosty](https://img.shields.io/badge/Boosty-support-F15F2C)](https://boosty.to/vacuum34/donate)
+[![PayPal](https://img.shields.io/badge/PayPal-support-00457C?logo=paypal&logoColor=white)](https://paypal.me/AlexNelin)
 
-The projects stay public and usable whether you donate or not.
+Bank transfer and crypto options are listed in [**SUPPORT.md**](SUPPORT.md), with the exact network for each address.
 
 ## Current focus
 
