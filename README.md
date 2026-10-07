@@ -18,6 +18,7 @@ Continuation protocols, multi-agent operator tooling, quota monitors, desktop ut
 [![SAIPEN HQ](https://img.shields.io/badge/GitHub-SAIPEN%20HQ-D4B86A?logo=github)](https://github.com/saipenhq)
 [![SAIPEN Core](https://img.shields.io/badge/SAIPEN-Core-D4B86A)](https://github.com/vacterro/saipen)
 [![FastPrompter](https://img.shields.io/badge/FastPrompter-Windows-0078D6)](https://github.com/vacterro/FastPrompter)
+[![SAIPEN Website](https://img.shields.io/badge/SAIPEN-Website-6B5A2B)](https://github.com/vacterro/saiwebsite)
 
 </div>
 
@@ -27,6 +28,7 @@ The public organization hub is [**SAIPEN HQ**](https://github.com/saipenhq). Its
 
 | Project | What it does |
 |---|---|
+| [**SAIPEN Website**](https://github.com/vacterro/saiwebsite) | Official static documentation and public web surface for the SAIPEN Protocol, rendered in the Wintage design system. |
 | [**SAIPEN**](https://github.com/vacterro/saipen) | Vendor-neutral continuation protocol for AI coding agents. Plain-file project state, recovery, validation, and cold-agent handoff. |
 | [**ZAICODE**](https://github.com/vacterro/zaicode) | Windows operator workbench for running many AI coding agents across many projects with SAIPEN-driven continuation, scheduling, workers, and quota-aware routing. |
 | [**FastPrompter**](https://github.com/vacterro/FastPrompter) | Keyboard-first local scratchpad and snippet workspace for Windows with global hotkeys, Markdown, file containers, and offline storage. |
