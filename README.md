@@ -32,7 +32,6 @@ The public organization hub is [**SAIPEN HQ**](https://github.com/saipenhq). Its
 | [**SAIPEN**](https://github.com/vacterro/saipen) | Vendor-neutral continuation protocol for AI coding agents. Plain-file project state, recovery, validation, and cold-agent handoff. |
 | [**ZAICODE**](https://github.com/vacterro/zaicode) | Windows operator workbench for running many AI coding agents across many projects with SAIPEN-driven continuation, scheduling, workers, and quota-aware routing. |
 | [**FastPrompter**](https://github.com/vacterro/FastPrompter) | Keyboard-first local scratchpad and snippet workspace for Windows with global hotkeys, Markdown, file containers, and offline storage. |
-| [**LIMISAW**](https://github.com/vacterro/limisaw) | One-file Windows tray monitor for Codex, Claude Code, Antigravity, and Zcode quota windows across multiple accounts. |
 | [**SAITULS**](https://github.com/vacterro/saituls) | Windows Explorer and desktop utility hub for file/media operations, agent launchers, and supporting tools. |
 | [**ProTrail**](https://github.com/vacterro/protrail) | Native Windows cursor trails, click effects, hold effects, and multi-monitor overlays built with Qt 6, C++20, Direct2D, and DirectComposition. |
 
@@ -56,7 +55,7 @@ The profile is broader than the six flagships above. These repositories are kept
 
 **Windows utilities:** [Problip](https://github.com/vacterro/problip) · [Problip Android](https://github.com/vacterro/problip_android) · [SMART VAC Cleaner](https://github.com/vacterro/SMART-VAC-CLEANER) · [SMART VAC Duplicate Remover](https://github.com/vacterro/SMART-VAC-DUPLICATE-REMOVER) · [VACZEN Calendar](https://github.com/vacterro/VACZEN-Calendar) · [AI Chat Buttons](https://github.com/vacterro/AI-Chat-Buttons)
 
-**Creative / media / game tooling:** [VAC Media Compressor](https://github.com/vacterro/VAC-MEDIA-COMPRESSOR) · [SMART VAC Media Compressor](https://github.com/vacterro/SMART-VAC-MEDIA-COMPRESSOR) · [Premiere Random Cut](https://github.com/vacterro/_PR-Video-Random-Cut) · [Cinema 4D scripts](https://github.com/vacterro/vac34_c4d_scripts) · [BZCC Font Tool](https://github.com/vacterro/BZCC_Font_Tool) · [BZCC Sprite Generator](https://github.com/vacterro/BZCC-Sprite-and-CursorHD-Generator) · [BZCC Sprite Viewer](https://github.com/vacterro/BZCC-Sprite-Viewer) · [SunoDownloader](https://github.com/vacterro/SunoDownloader) · [VacWPlayer](https://github.com/vacterro/VacWPlayer)
+**Creative / media / game tooling:** [VAC Media Compressor](https://github.com/vacterro/VAC-MEDIA-COMPRESSOR) · [SMART VAC Media Compressor](https://github.com/vacterro/SMART-VAC-MEDIA-COMPRESSOR) · [Premiere Random Cut](https://github.com/vacterro/_PR-Video-Random-Cut) · [Cinema 4D scripts](https://github.com/vacterro/vac34_c4d_scripts) · [BZCC Font Tool](https://github.com/vacterro/BZCC_Font_Tool) · [BZCC Sprite Viewer](https://github.com/vacterro/BZCC-Sprite-Viewer)
 
 **Browser / client customization:** [BetterDiscord vac34 plugins](https://github.com/vacterro/BetterDiscord_vac34_plugins)
 
