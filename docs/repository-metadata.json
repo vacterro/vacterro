@@ -34,20 +34,6 @@
         "desktop-app"
       ]
     },
-    "BZCC-Sprite-and-CursorHD-Generator": {
-      "description": "GUI toolkit for Battlezone: Combat Commander cursor sheets, sprites, color maps, scaling, and texture export.",
-      "topics": [
-        "battlezone",
-        "battlezone-combat-commander",
-        "bzcc",
-        "modding",
-        "sprites",
-        "cursor",
-        "textures",
-        "python",
-        "image-processing"
-      ]
-    },
     "BZCC-Sprite-Viewer": {
       "description": "Visual Battlezone: Combat Commander sprite.txt viewer with recursive image lookup.",
       "topics": [
@@ -111,21 +97,6 @@
         "ui"
       ]
     },
-    "SunoDownloader": {
-      "description": "Tampermonkey toolkit for Suno multi-account workflows, batch MP3/WAV downloads, ID3 tagging, lyrics, and automation.",
-      "topics": [
-        "automation",
-        "browser-extension",
-        "downloader",
-        "id3",
-        "javascript",
-        "music",
-        "oauth",
-        "suno",
-        "tampermonkey",
-        "userscript"
-      ]
-    },
     "saipen": {
       "description": "Vendor-neutral continuation protocol for AI coding agents. Plain-file project state, stdlib validation, recovery and cold-agent handoff.",
       "topics": [
@@ -155,19 +126,6 @@
         "developer-tools",
         "local-first",
         "automation"
-      ]
-    },
-    "VacWPlayer": {
-      "description": "Windows/BlueStacks Wild Rift automation assistant with configurable combos, champion presets, minimap actions, and game-state helpers.",
-      "topics": [
-        "wild-rift",
-        "bluestacks",
-        "autohotkey",
-        "python",
-        "automation",
-        "desktop-app",
-        "windows",
-        "game-tools"
       ]
     },
     "SMART-VAC-CLEANER": {
@@ -373,23 +331,6 @@
         "python",
         "stdlib-only",
         "saipen"
-      ]
-    },
-    "limisaw": {
-      "description": "One-file Windows tray monitor for Codex, Claude Code, Antigravity, and Zcode quota windows across multiple accounts.",
-      "topics": [
-        "ai-agents",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "csharp",
-        "quota-monitor",
-        "rate-limits",
-        "single-file",
-        "tray-app",
-        "windows",
-        "winforms",
-        "zcode"
       ]
     },
     "problip": {
