@@ -87,6 +87,7 @@ If these tools save you time and you simply feel like buying me an ice cream, th
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/vacuum34)
 [![Boosty](https://img.shields.io/badge/Boosty-support-F15F2C)](https://boosty.to/vacuum34/donate)
 [![PayPal](https://img.shields.io/badge/PayPal-support-00457C?logo=paypal&logoColor=white)](https://paypal.me/AlexNelin)
+[![Revolut](https://img.shields.io/badge/Revolut-support-191C1F)](https://revolut.me/alexnf7xb)
 
 Bank transfer and crypto options are listed in [**SUPPORT.md**](SUPPORT.md), with the exact network for each address.
 
@@ -104,5 +105,5 @@ The current focus is not inventing fifty more project names. It is making the ex
 
 <!-- VACTERRO_SUPPORT:BEGIN -->
 ---
-<sub>If this project is useful to you, optional support: [Buy Me a Coffee](https://buymeacoffee.com/vacuum34) · [Boosty](https://boosty.to/vacuum34/donate) · [PayPal](https://paypal.me/AlexNelin) · [other ways](https://github.com/vacterro/vacterro/blob/main/SUPPORT.md)</sub>
+<sub>If this project is useful to you, optional support: [Buy Me a Coffee](https://buymeacoffee.com/vacuum34) · [Boosty](https://boosty.to/vacuum34/donate) · [PayPal](https://paypal.me/AlexNelin) · [Revolut](https://revolut.me/alexnf7xb) · [other ways](https://github.com/vacterro/vacterro/blob/main/SUPPORT.md)</sub>
 <!-- VACTERRO_SUPPORT:END -->
